@@ -27,7 +27,8 @@ padding: 5px 5px;}
     border: 5px solid #f4a896;
     background-color:#358597;
     border-radius: 50px;
-    color: white;} 
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;} 
 
 
 
@@ -41,7 +42,8 @@ padding: 5px 5px;}
     border: 5px solid #f4a896;
     background-color:#358597;
     border-radius: 50px;
-    color: white;}
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;}
     
 .post3
 {   font-family: 'Inter', sans-serif;
@@ -53,7 +55,8 @@ padding: 5px 5px;}
     border: 5px solid #f4a896;
     background-color:#358597;
     border-radius: 50px;
-    color: white;}
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;}
 .header
 {font-size: 50px;
 margin-top: 10px;}
