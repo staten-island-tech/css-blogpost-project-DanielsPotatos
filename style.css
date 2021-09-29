@@ -1,4 +1,5 @@
-body{background-color: #358597;}
+body{background-color: #358597;
+    }
 
 .title
 {color: #f4a896;
@@ -55,12 +56,12 @@ padding: 5px 5px;}
     border: 5px solid #f4a896;
     background-color:#358597;
     border-radius: 50px;
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
-    color: transparent;}
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    color: transparent;-webkit-background-clip: text;}
 .header
 {font-size: 50px;
-margin-top: 10px;}
+margin-top: 0px;}
 
 .paragraph
-{font-size: 30px;
+{font-size: 15px;
     margin-top: 10px;}}
